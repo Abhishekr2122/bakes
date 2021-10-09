@@ -1,0 +1,317 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#A{
+    /* border: 2px solid red; */
+    height: 50px;
+    background-color: lightsteelblue;
+    display: flex;
+}
+
+#B img{
+    height: 45px;
+    width: 45px;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+
+#D{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 0px;
+}
+
+#up{
+    position: absolute;
+    right: 16%;
+    top: 2%;
+    font-size: 20px;
+    cursor: default;
+}
+
+#up input{
+    background: transparent;
+    border-radius: 4px;
+    width: 350px;
+}
+
+#down{
+    position: absolute;
+    right: 4%;
+    top: 1.5%;
+    background: transparent;
+    
+}
+
+#down button{
+    background: transparent;
+    margin-left: 10px;
+    border-radius: 4px;
+    padding: 4px;
+    width: 55px;
+    cursor: pointer;
+}
+
+.a{
+   
+  margin-left: 80px;
+  font-size: 20px;
+   
+}
+
+#D li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+#E{ 
+    background-image: url(../picture/donut-4475455.jpg);
+    background-repeat: no-repeat;
+    background-size: 1538px 704px;
+    
+    /* border: 2px solid blue; */
+    height: 706px;
+    
+   
+}
+
+.F{
+    /* border: 2px solid black; */
+    width: 330px;
+    height: 590px;
+    padding: 10px;
+    position: absolute;
+    top: 14%;
+    left: 4%;
+    /* background-image: url(donut-4475455.jpg); */
+    /* opacity: 0.8; */
+    background-repeat: no-repeat;
+    background-size: 350px 610px;
+   
+    /* background-color: lightsteelblue;   */
+    /* backdrop-filter: blur(10px); */
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+    
+}
+
+#G{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: default;
+}
+
+.b{
+    font-size: 40px;
+    /* border: 2px solid red; */;
+    color: black;
+}
+#H{
+    /* border: 2px solid black; */
+    padding-top: 10px;
+    height: 298px;
+    width: 155px;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-weight: 500;
+    color: black;
+    cursor: default;
+}
+
+
+#I{
+    display: flex;
+    flex-direction: column;
+    height: 290px;
+    /* border: 2px solid green; */
+    width: 90px;
+    padding: 6px;
+    margin-left: 25px;
+    font-size: 15px;
+    color: black;
+    cursor: default;
+    
+}
+
+#J{
+    display: flex;
+    flex-direction: row;
+}
+
+.d{
+    padding-top: 10px;
+    font-weight: bolder;}
+    
+
+#K{
+    margin-top: 8px;
+    height: 125px;
+    width: 100px;
+    /* border: 2px solid yellow; */
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    cursor: default;
+   
+    
+}
+
+.e{
+    padding: -1px;
+    margin-top: 4px;
+    color: black;}
+    
+  
+#M{
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 4px;
+    color: black;
+    cursor: default;
+    
+}
+
+#L{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.f{ 
+    margin-top: 4px;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px;
+    
+}
+
+#N{
+    /* border: 2px solid blue; */
+    width: 980px;
+    height: 300px;
+    position: absolute;
+    left: 29%;
+    top: 14%;
+    /* background-color: rgba(255, 255, 255, 0.151);   */
+    /* backdrop-filter: blur(1px); */
+    display: flex;
+    flex-direction: row;
+   
+    
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+    
+}
+
+.g{
+    margin-left: 15px;
+   
+}
+
+#O{
+    /* border: 2px solid green; */
+    position:absolute;
+    top: 57%;
+    left: 34%;
+    width: 860px;
+    height: 275px;
+    display: flex;
+    flex-direction: row;
+}
+
+.h{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 6px;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+    width: 200px;
+    cursor: default;
+   
+}
+
+.h div{
+    margin-top: -10px;
+}
+
+.i{
+    font-size: large;
+    padding: 8px;
+}
+
+.j{
+    /* border: 2px solid red; */
+    width: 245px;
+    height: 150px;
+}
+
+#name{
+    background-image: url(../picture/muffin-4653218.jpg);
+    background-repeat: no-repeat;
+    background-size: 245px 150px;
+    opacity: 0.77;
+}
+
+#age{
+    background-image: url(../picture/ingredients-1578688.jpg);
+    background-repeat: no-repeat;
+    background-size: 245px 150px;
+    opacity: 0.75;
+
+}
+
+#year{
+    background-image: url(../picture/doughnuts-1209614.jpg);
+    background-repeat: no-repeat;
+    background-size: 245px 150px;
+    opacity: 0.8;
+
+}
+
+#phone{
+    background-image: url(../picture/ice-cream-4507202.jpg);
+    background-repeat: no-repeat;
+    background-size: 245px 150px;
+    opacity: 0.8;
+
+}
+
+#marks{
+    position: absolute;
+    /* border: 2px solid red; */
+    top: 52%;
+    font-size: 137px;
+    color: thistle;
+    width: 850px;
+    left: 7%;
+    height: 127px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.k{
+    font-size: large;
+    padding: 8px;  
+}
+
+#cube img{
+   height: 160px;
+   width: 150px;
+}
+
+
+
+
